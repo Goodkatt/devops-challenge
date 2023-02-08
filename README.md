@@ -1,4 +1,5 @@
 # Devops Challenge
+# http://35.187.171.49:8080
 
 ### All infrastructure is created with Terraform, components are as follows
 
