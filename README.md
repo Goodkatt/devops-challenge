@@ -19,7 +19,4 @@
 #### - gcloud container clusters get-credentials primary --zone europe-west1-b --project devops-377015
 #### - kubectl apply -f deployment.yaml
 <br/><br/>
-![image info](svc.png)
-![image info](cluster.png)
-![image info](vm.png)
-![image info](app.png)
+
