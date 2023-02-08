@@ -20,3 +20,7 @@
 #### - kubectl apply -f deployment.yaml
 <br/><br/>
 
+![svc](https://user-images.githubusercontent.com/20110284/217599994-331d3144-ac03-4611-aa50-4206d3e56dff.png)
+![cluster](https://user-images.githubusercontent.com/20110284/217600059-2c4c013d-a1ae-4bd8-8c19-c1ff0869d2fe.png)
+![vm](https://user-images.githubusercontent.com/20110284/217600072-cdea248c-0822-4d25-95a3-4862e8c2cbf1.png)
+![app](https://user-images.githubusercontent.com/20110284/217600080-9f638339-461a-4b13-87c3-bf87bd97495e.png)
